@@ -1,0 +1,169 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1-292303-6
+F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
+$ENDCMP
+#
+$CMP 54-00176
+F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
+$ENDCMP
+#
+$CMP 54-00177
+F https://tensility.s3-us-west-2.amazonaws.com/uploads/product_doc/document/4373/54-00177.pdf
+$ENDCMP
+#
+$CMP ASFL1-12.288MHZ-EC-T
+F https://abracon.com/Oscillators/ASFL1.pdf
+$ENDCMP
+#
+$CMP C0402C104K9PACTU
+F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
+$CMP FBMJ1608HM180NTR
+F https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf
+$ENDCMP
+#
+$CMP JST-GH-6
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP KUSBX-AS1N-B
+F http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf
+$ENDCMP
+#
+$CMP Keyes_HW-504
+F *
+$ENDCMP
+#
+$CMP NVCC_1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP NVCC_3V3
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP NVCC_DRAM_1V1
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP NVCC_ENET
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP NVCC_SD2
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP NVCC_SNVS_1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP RC0402JR-072K2L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RCJ-2123
+F https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf
+$ENDCMP
+#
+$CMP SGTL5000XNLA3
+F https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf
+$ENDCMP
+#
+$CMP SN74LV1T34DBVRG4
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lv1t34
+$ENDCMP
+#
+$CMP T491A105K010AT
+F https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html
+$ENDCMP
+#
+$CMP TL3301NF260QG
+F http://spec_sheets.e-switch.com/specs/P010517.pdf
+$ENDCMP
+#
+$CMP VBUS_IN
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDDA_1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDDEXT_3V3
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_1V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_3V3
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_5V
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_ARM_0V9
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_DRAM&PU_0V9
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PCIE_1V5
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PHY_0V9
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_PHY_1V2
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_SNVS_0V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VDD_SOC_0V8
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP VSYS_5V
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP WM8750CJLGEFL
+F https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/WM8750JL_v4.1.pdf
+$ENDCMP
+#
+#End Doc Library
