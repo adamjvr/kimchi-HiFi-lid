@@ -88,8 +88,32 @@ $CMP T491A105K010AT
 F https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html
 $ENDCMP
 #
+$CMP T491D106K020AT
+F https://api.kemet.com/component-edge/download/datasheet/T491D106K020AT.pdf
+$ENDCMP
+#
+$CMP T491D227M010AT
+F https://api.kemet.com/component-edge/download/datasheet/T491D227M010AT.pdf
+$ENDCMP
+#
+$CMP T494A106M006AT
+F https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf
+$ENDCMP
+#
+$CMP TEMPLATE_POLAR
+F *
+$ENDCMP
+#
 $CMP TL3301NF260QG
 F http://spec_sheets.e-switch.com/specs/P010517.pdf
+$ENDCMP
+#
+$CMP UUQ1E221MCL1GS
+F http://nichicon-us.com/english/products/pdfs/e-uuq.pdf
+$ENDCMP
+#
+$CMP UUQ1H010MCL1GB
+F http://nichicon-us.com/english/products/pdfs/e-uuq.pdf
 $ENDCMP
 #
 $CMP VBUS_IN
