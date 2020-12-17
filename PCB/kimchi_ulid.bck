@@ -100,10 +100,6 @@ $CMP T494A106M006AT
 F https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf
 $ENDCMP
 #
-$CMP TEMPLATE_POLAR
-F *
-$ENDCMP
-#
 $CMP TL3301NF260QG
 F http://spec_sheets.e-switch.com/specs/P010517.pdf
 $ENDCMP
@@ -114,6 +110,10 @@ $ENDCMP
 #
 $CMP UUQ1H010MCL1GB
 F http://nichicon-us.com/english/products/pdfs/e-uuq.pdf
+$ENDCMP
+#
+$CMP UZP1H0R1MCL1GB
+F https://media.digikey.com/pdf/Data%20Sheets/Nichicon%20PDFs/ZP_Series.pdf
 $ENDCMP
 #
 $CMP VBUS_IN

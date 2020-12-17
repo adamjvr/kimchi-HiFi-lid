@@ -112,6 +112,10 @@ $CMP UUQ1H010MCL1GB
 F http://nichicon-us.com/english/products/pdfs/e-uuq.pdf
 $ENDCMP
 #
+$CMP UZP1H0R1MCL1GB
+F https://media.digikey.com/pdf/Data%20Sheets/Nichicon%20PDFs/ZP_Series.pdf
+$ENDCMP
+#
 $CMP VBUS_IN
 D Power flag
 K power-flag
