@@ -1896,7 +1896,7 @@ F 3 "" H 9650 6150 50  0001 C CNN
 	1    9650 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 2050 6550 0    50   Input ~ 0
+Text GLabel 1900 6700 0    50   Input ~ 0
 MCLK
 Wire Wire Line
 	6300 6550 2050 6550
@@ -2642,7 +2642,7 @@ Text GLabel 2950 1450 2    50   Input ~ 0
 I2C4_SDA
 Text GLabel 2950 1550 2    50   Input ~ 0
 I2C4_SCL
-Text GLabel 1750 6550 0    50   Input ~ 0
+Text GLabel 1900 6400 0    50   Input ~ 0
 SAI3_MCLK
 Text GLabel 5450 5950 0    50   Input ~ 0
 SAI3_TXC

@@ -1896,7 +1896,7 @@ F 3 "" H 9650 6150 50  0001 C CNN
 	1    9650 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 1900 6700 0    50   Input ~ 0
+Text GLabel 2050 6650 2    50   Input ~ 0
 MCLK
 Wire Wire Line
 	6300 6550 2050 6550
@@ -2642,7 +2642,7 @@ Text GLabel 2950 1450 2    50   Input ~ 0
 I2C4_SDA
 Text GLabel 2950 1550 2    50   Input ~ 0
 I2C4_SCL
-Text GLabel 1900 6400 0    50   Input ~ 0
+Text GLabel 2050 6450 2    50   Input ~ 0
 SAI3_MCLK
 Text GLabel 5450 5950 0    50   Input ~ 0
 SAI3_TXC
@@ -2672,4 +2672,15 @@ Wire Wire Line
 	6000 7150 6300 7150
 Wire Wire Line
 	6300 7250 6000 7250
+$Comp
+L Connector:Conn_01x03_Male J6
+U 1 1 5FE51E54
+P 1850 6550
+F 0 "J6" H 1800 6750 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 1850 6350 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 1850 6550 50  0001 C CNN
+F 3 "~" H 1850 6550 50  0001 C CNN
+	1    1850 6550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
