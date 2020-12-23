@@ -44,9 +44,9 @@ Wire Wire Line
 Wire Wire Line
 	2000 1650 2000 2000
 Wire Wire Line
-	2100 1550 1900 1550
+	2950 1550 1900 1550
 Wire Wire Line
-	2100 1450 1900 1450
+	2950 1450 1900 1450
 $Comp
 L kimchi_ulid-rescue:24LC16-Memory_EEPROM U1
 U 1 1 5D8EE848
@@ -61,10 +61,6 @@ F 6 "497-15757-1-ND" H 1500 1550 50  0001 C CNN "Vendorpart"
 	1    1500 1550
 	1    0    0    -1  
 $EndComp
-Text Label 2100 1550 0    50   ~ 0
-I2C4_SCL
-Text Label 2100 1450 0    50   ~ 0
-I2C4_SDA
 Text Notes 2050 1250 0    50   ~ 0
 7-bit addr: 0x57/0x5F
 Wire Wire Line
@@ -1669,12 +1665,6 @@ Wire Wire Line
 	5300 7050 5300 8250
 Wire Wire Line
 	5300 8250 6300 8250
-Wire Wire Line
-	6300 7150 2050 7150
-Wire Wire Line
-	6300 7250 2050 7250
-Wire Wire Line
-	6300 7350 2050 7350
 $Comp
 L kimchi_ulid:T491D227M010AT C10
 U 1 1 5FEF4442
@@ -1906,7 +1896,7 @@ F 3 "" H 9650 6150 50  0001 C CNN
 	1    9650 6150
 	1    0    0    -1  
 $EndComp
-Text GLabel 2050 6550 0    50   Input ~ 0
+Text GLabel 1900 6700 0    50   Input ~ 0
 MCLK
 Wire Wire Line
 	6300 6550 2050 6550
@@ -1924,12 +1914,6 @@ Text Notes 15250 7100 0    50   ~ 10
 Stereo Out (RCA)
 Text Notes 1800 5050 0    50   ~ 10
 Stereo In (RCA)
-Text GLabel 2050 7150 0    50   Input ~ 0
-I2S_SCLK
-Text GLabel 2050 7350 0    50   Input ~ 0
-I2S_CSB
-Text GLabel 2050 7250 0    50   Input ~ 0
-I2S_SDIN
 Text Notes 9750 8850 0    50   ~ 10
 Codec Master Clock
 Text Notes 7000 4700 0    50   ~ 10
@@ -1974,12 +1958,6 @@ Wire Wire Line
 	8550 1250 7350 1250
 Wire Wire Line
 	7350 1350 8550 1350
-Text GLabel 5150 2850 0    50   Input ~ 0
-I2S_SCLK
-Text GLabel 5150 3050 0    50   Input ~ 0
-I2S_CSB
-Text GLabel 5150 2950 0    50   Input ~ 0
-I2S_SDIN
 $Comp
 L kimchi_ulid:FBMJ1608HM180NTR FB6
 U 1 1 5FE7C1D4
@@ -2660,4 +2638,38 @@ Wire Wire Line
 	10450 6150 10750 6150
 Wire Wire Line
 	10000 6150 10450 6150
+Text GLabel 2950 1450 2    50   Input ~ 0
+I2C4_SDA
+Text GLabel 2950 1550 2    50   Input ~ 0
+I2C4_SCL
+Text GLabel 1900 6400 0    50   Input ~ 0
+SAI3_MCLK
+Text GLabel 5450 5950 0    50   Input ~ 0
+SAI3_TXC
+Text GLabel 5450 6250 0    50   Input ~ 0
+SAI3_TXFS
+Text GLabel 5450 6150 0    50   Input ~ 0
+SAI3_RXD
+Text GLabel 5450 6050 0    50   Input ~ 0
+SAI3_RXFS
+Text GLabel 5450 6350 0    50   Input ~ 0
+SAI3_TXD
+Wire Wire Line
+	6300 5950 5450 5950
+Wire Wire Line
+	5450 6050 6300 6050
+Wire Wire Line
+	6300 6150 5450 6150
+Wire Wire Line
+	5450 6250 6300 6250
+Wire Wire Line
+	6300 6350 5450 6350
+Text GLabel 6000 7250 0    50   Input ~ 0
+I2C3_SDA
+Text GLabel 6000 7150 0    50   Input ~ 0
+I2C3_SCL
+Wire Wire Line
+	6000 7150 6300 7150
+Wire Wire Line
+	6300 7250 6000 7250
 $EndSCHEMATC
