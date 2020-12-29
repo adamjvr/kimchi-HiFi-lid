@@ -2766,7 +2766,7 @@
   (gr_text "Kimchi-HiFi-Lid v0.1a 2020" (at 108 82 270) (layer B.SilkS) (tstamp 5FDBCB10)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Kimchi-HiFi-Lid v0.1a 2020" (at 160.6 72) (layer F.SilkS) (tstamp 5FDBCB05)
+  (gr_text "Kimchi-HiFi-Lid v0.1a 2020" (at 130.8 72) (layer F.SilkS) (tstamp 5FDBCB05)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "STEREO OUT" (at 112.2 103.4) (layer F.SilkS) (tstamp 5FD6D3F2)
