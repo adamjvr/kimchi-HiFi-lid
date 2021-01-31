@@ -2683,4 +2683,26 @@ F 3 "~" H 1850 6550 50  0001 C CNN
 	1    1850 6550
 	1    0    0    -1  
 $EndComp
+$Comp
+L kimchi_ulid:GG_LOGO L1
+U 1 1 6012EC1D
+P 4300 9200
+F 0 "L1" H 4350 9245 50  0000 L CNN
+F 1 "GG_LOGO" H 4350 9154 50  0000 L CNN
+F 2 "kimchi_ulid:groupgets_logo" H 4300 9200 50  0001 C CNN
+F 3 "" H 4300 9200 50  0001 C CNN
+	1    4300 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:OSHPARK_LOGO L2
+U 1 1 6013219F
+P 4300 9400
+F 0 "L2" H 4350 9445 50  0000 L CNN
+F 1 "OSHPARK_LOGO" H 4350 9354 50  0000 L CNN
+F 2 "kimchi_ulid:oshpark_logo" H 4300 9400 50  0001 C CNN
+F 3 "" H 4300 9400 50  0001 C CNN
+	1    4300 9400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

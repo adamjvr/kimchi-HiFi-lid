@@ -474,6 +474,30 @@ X ~ 2 400 0 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# kimchi_ulid_GG_LOGO
+#
+DEF kimchi_ulid_GG_LOGO L 0 40 Y Y 1 F N
+F0 "L" 0 0 50 H V C CNN
+F1 "kimchi_ulid_GG_LOGO" 0 0 50 H V C CNN
+F2 "kimchi_ulid:groupgets_logo" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 0 0 50 0 0 0 G Normal 0 C C
+ENDDRAW
+ENDDEF
+#
+# kimchi_ulid_OSHPARK_LOGO
+#
+DEF kimchi_ulid_OSHPARK_LOGO L 0 40 Y Y 1 F N
+F0 "L" 0 0 50 H V C CNN
+F1 "kimchi_ulid_OSHPARK_LOGO" 0 0 50 H V C CNN
+F2 "kimchi_ulid:oshpark_logo" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 0 0 50 0 0 0 G Normal 0 C C
+ENDDRAW
+ENDDEF
+#
 # kimchi_ulid_RC0402JR-072K2L
 #
 DEF kimchi_ulid_RC0402JR-072K2L R 0 40 Y Y 1 F N
