@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\adam\Documents\GitHub\kimchi-HiFi-lid\PCB\kimchi_ulid.sch</source>
+    <date>1/13/2021 4:09:14 PM</date>
+    <tool>Eeschema (5.1.8)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kimchi_ulid.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>24C32</value>
+      <footprint>Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/80/4e/8c/54/f2/63/4c/4a/CD00001012.pdf/files/CD00001012.pdf/jcr:content/translations/en.CD00001012.pdf</datasheet>
+      <fields>
+        <field name="Mfgr">ST</field>
+        <field name="Part">M24C32-FMC6TG</field>
+        <field name="Vendorpart">497-15757-1-ND</field>
+      </fields>
+      <libsource lib="kimchi_ulid-rescue" part="24LC16-Memory_EEPROM" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8EE848</tstamp>
+    </comp>
+    <comp ref="LOGO1">
+      <value>Logo_Open_Hardware_Small</value>
+      <footprint>Symbol:OSHW-Logo_5.7x6mm_SilkScreen</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="Logo_Open_Hardware_Small-Graphic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA00236</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>DF40HC(3.5)-60DS</value>
+      <footprint>kimchi_ulid:DF40HC(3.5)-60DS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="Conn_02x30_Counter_Clockwise-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5E151A</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>DF40HC(3.5)-60DS</value>
+      <footprint>kimchi_ulid:DF40HC(3.5)-60DS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="Conn_02x30_Counter_Clockwise-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5E1603</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>kimchi_ulid:MountingHole_3mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E6294CA</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>kimchi_ulid:MountingHole_3mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E62A27E</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>kimchi_ulid:MountingHole_3mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E62A6D2</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>kimchi_ulid:MountingHole_3mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="kimchi_ulid-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E62AAC7</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>T491A105K010AT</value>
+      <footprint>kimchi_ulid:C1206</footprint>
+      <datasheet>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Voltage">10V</field>
+        <field name="_Value_">1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491A105K010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD1E332</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD4CC2E</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>T491A105K010AT</value>
+      <footprint>kimchi_ulid:C1206</footprint>
+      <datasheet>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Voltage">10V</field>
+        <field name="_Value_">1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491A105K010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD5E744</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>T491A105K010AT</value>
+      <footprint>kimchi_ulid:C1206</footprint>
+      <datasheet>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Voltage">10V</field>
+        <field name="_Value_">1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491A105K010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD58847</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE79740</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>ASFL1-12.288MHZ-EC-T</value>
+      <footprint>kimchi_ulid:ASFL1</footprint>
+      <datasheet>https://abracon.com/Oscillators/ASFL1.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">1.14000</field>
+        <field name="Cost QTY: 1000">0.75048</field>
+        <field name="Cost QTY: 10000">0.66144</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">0.68688</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Description">12.288MHz XO (Standard) HCMOS, TTL Oscillator 3.3V Enable/Disable 4-SMD, No Lead</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4.4mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Abracon LLC</field>
+        <field name="MFR#">ASFL1-12.288MHZ-EC-T</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">Proprietary</field>
+        <field name="Pin Count #">4</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Crystal</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">300-8245-1-ND</field>
+        <field name="Voltage">3.3V</field>
+        <field name="_Value_">ASFL1-12.288MHZ-EC-T</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="ASFL1-12.288MHZ-EC-T" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE366F5</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>SN74LV1T34DBVRG4</value>
+      <footprint>kimchi_ulid:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lv1t34</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.45000</field>
+        <field name="Cost QTY: 1000">0.14040</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 3000">0.12870</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Description">Buffer, Non-Inverting 1 Element 1 Bit per Element Push-Pull Output SOT-23-5</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.11mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Texas Instruments</field>
+        <field name="MFR#">SN74LV1T34DBVRG4</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">SOT23-5</field>
+        <field name="Pin Count #">5</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Buffer</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">296-SN74LV1T34DBVRG4CT-ND</field>
+        <field name="Voltage">3.3V</field>
+        <field name="_Value_">SN74LV1T34DBVRG4</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="SN74LV1T34DBVRG4" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEC223C</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEE6F0C</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>RCJ-2123</value>
+      <footprint>kimchi_ulid:RCJ-2123</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">1.67000</field>
+        <field name="Cost QTY: 1000">0.93000</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.86800</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/14/2020</field>
+        <field name="Date Modified">12/14/2020</field>
+        <field name="Description">3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">5.12mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">CUI Devices</field>
+        <field name="MFR#">RCJ-2123</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">ThroughHole Right Angle</field>
+        <field name="Package">*</field>
+        <field name="Pin Count #">4</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">RCA Jack</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">CP-1432-ND</field>
+        <field name="Voltage">24VDC</field>
+        <field name="_Value_">RCJ-2123</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="RCJ-2123" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDBB09A</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>RCJ-2123</value>
+      <footprint>kimchi_ulid:RCJ-2123</footprint>
+      <datasheet>https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">1.67000</field>
+        <field name="Cost QTY: 1000">0.93000</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.86800</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/14/2020</field>
+        <field name="Date Modified">12/14/2020</field>
+        <field name="Description">3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">5.12mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">CUI Devices</field>
+        <field name="MFR#">RCJ-2123</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">ThroughHole Right Angle</field>
+        <field name="Package">*</field>
+        <field name="Pin Count #">4</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">RCA Jack</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">CP-1432-ND</field>
+        <field name="Voltage">24VDC</field>
+        <field name="_Value_">RCJ-2123</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="RCJ-2123" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDBDD47</tstamp>
+    </comp>
+    <comp ref="FB2">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE2BD65</tstamp>
+    </comp>
+    <comp ref="FB1">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE3E899</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>T491A105K010AT</value>
+      <footprint>kimchi_ulid:C1206</footprint>
+      <datasheet>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Voltage">10V</field>
+        <field name="_Value_">1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491A105K010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE6B069</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>T491A105K010AT</value>
+      <footprint>kimchi_ulid:C1206</footprint>
+      <datasheet>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Voltage">10V</field>
+        <field name="_Value_">1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491A105K010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE6B089</tstamp>
+    </comp>
+    <comp ref="FB4">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE6B0D2</tstamp>
+    </comp>
+    <comp ref="FB3">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE6B0F3</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>RC0603FR-0747KL</value>
+      <footprint>AVR-KiCAD-Lib-Resistors:R0603</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.00421</field>
+        <field name="Cost QTY: 10000">0.00238</field>
+        <field name="Cost QTY: 2500">0.00366</field>
+        <field name="Cost QTY: 5000">0.00274</field>
+        <field name="Date Created">6/18/2020</field>
+        <field name="Date Modified">6/18/2020</field>
+        <field name="Description">47 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55m</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Yageo</field>
+        <field name="MFR#">RC0603FR-0747KL</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">1%</field>
+        <field name="Type">Resistor</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">311-47.0KHRCT-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">47K</field>
+      </fields>
+      <libsource lib="AVR-KiCAD-Lib-Resistors" part="RC0603FR-0747KL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60080924</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>RC0402JR-072K2L</value>
+      <footprint>AVR-KiCAD-Lib-Resistors:R0402</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.00212</field>
+        <field name="Cost QTY: 10000">0.00132</field>
+        <field name="Cost QTY: 2500">0.00184</field>
+        <field name="Cost QTY: 5000">0.00152</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Description">2.2 kOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.4mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Yageo</field>
+        <field name="MFR#">RC0402JR-072K2L</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">1%</field>
+        <field name="Type">Thick Film Resistor</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">311-2.2KJRCT-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">2.2K</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="RC0402JR-072K2L" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDCA161</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDF7D35</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDF91C9</tstamp>
+    </comp>
+    <comp ref="FB5">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE5CE8D</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>T491D227M010AT</value>
+      <footprint>kimchi_ulid:T491D227M010AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T491D227M010AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">1.36000</field>
+        <field name="Cost QTY: 1000">0.53786</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.50200</field>
+        <field name="Cost QTY: 5000">0.48408</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">220µF Molded Tantalum Capacitors 10V 2917 (7343 Metric) 500mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">3.10mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491D227M010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">2917</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9744-2-ND</field>
+        <field name="Voltage">10VDC</field>
+        <field name="_Value_">220uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491D227M010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEF4442</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>T491D227M010AT</value>
+      <footprint>kimchi_ulid:T491D227M010AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T491D227M010AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">1.36000</field>
+        <field name="Cost QTY: 1000">0.53786</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.50200</field>
+        <field name="Cost QTY: 5000">0.48408</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">220µF Molded Tantalum Capacitors 10V 2917 (7343 Metric) 500mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">3.10mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491D227M010AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">2917</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9744-2-ND</field>
+        <field name="Voltage">10VDC</field>
+        <field name="_Value_">220uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T491D227M010AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEF6F3D</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF0A8FD</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF0CE5B</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF861BB</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF873FE</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>54-00176</value>
+      <footprint>kimchi_ulid:54-00176</footprint>
+      <datasheet>http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.91000</field>
+        <field name="Cost QTY: 1000">0.49600</field>
+        <field name="Cost QTY: 10000">0.41230</field>
+        <field name="Cost QTY: 3000">0.44950</field>
+        <field name="Cost QTY: 5000">0.43400</field>
+        <field name="Date Created">12/8/2020</field>
+        <field name="Date Modified">12/8/2020</field>
+        <field name="Description">3.50mm (0.141", 1/8", Mini Plug) - Headphone Phone Jack Stereo (4 Conductor, TRRS) Connector Solder</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Tensility International Corp</field>
+        <field name="MFR#">54-00176</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">ThroughHole Right Angle</field>
+        <field name="Package">3.5mm Audio</field>
+        <field name="Pin Count #">6</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">3.5mm Audio</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">839-54-00176TR-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">54-00176</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="54-00176" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDB1D5D</tstamp>
+    </comp>
+    <comp ref="FB6">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE7C1D4</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE83491</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE8A85C</tstamp>
+    </comp>
+    <comp ref="FB7">
+      <value>FBMJ1608HM180NTR</value>
+      <footprint>kimchi_ulid:R0603</footprint>
+      <datasheet>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0603</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Voltage">*</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="FBMJ1608HM180NTR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEAFC60</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEAFC85</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEAFCA4</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>UZP1H0R1MCL1GB</value>
+      <footprint>kimchi_ulid:UZP1H0R1MCL1GB</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Nichicon%20PDFs/ZP_Series.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.71000</field>
+        <field name="Cost QTY: 1000">0.20706</field>
+        <field name="Cost QTY: 10000">0.17052</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">0.1µF 50V Aluminum Electrolytic Capacitors Radial, Can - SMD  2000 Hrs @ 85°C</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4.6mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Nichicon</field>
+        <field name="MFR#">UZP1H0R1MCL1GB</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">*</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Aluminum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">493-10087-2-ND</field>
+        <field name="Voltage">50V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="UZP1H0R1MCL1GB" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FEC7F91</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FECDD5F</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDF83B4</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>T494A106M006AT</value>
+      <footprint>kimchi_ulid:T494A106M006AT</footprint>
+      <datasheet>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">1206</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">10uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="T494A106M006AT" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF5468A</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>C0402C104K9PACTU</value>
+      <footprint>kimchi_ulid:C0402</footprint>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">0402</field>
+        <field name="Pin Count #">2</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Voltage">6.3V</field>
+        <field name="_Value_">0.1uF</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="C0402C104K9PACTU" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF546A9</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>WM8750CJLGEFL</value>
+      <footprint>kimchi_ulid:QFN-32_EP_5x5_Pitch0.5mm</footprint>
+      <datasheet>https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/WM8750JL_v4.1.pdf</datasheet>
+      <fields>
+        <field name="Cost QTY: 1">5.59000</field>
+        <field name="Cost QTY: 1000">2.80630</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="Cost QTY: 2500">2.70080</field>
+        <field name="Cost QTY: 5000">2.61640</field>
+        <field name="Date Created">12/15/2020</field>
+        <field name="Date Modified">12/15/2020</field>
+        <field name="Description">Stereo Audio Interface 24 b  32-QFN (5x5)</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.1mm</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="MFR">Cirrus Logic Inc.</field>
+        <field name="MFR#">WM8750CJLGEFL</field>
+        <field name="Management_ID">*</field>
+        <field name="Mounting">SMT</field>
+        <field name="Package">QFN</field>
+        <field name="Pin Count #">32</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Audio Codec</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">598-2392-ND</field>
+        <field name="Voltage">3.3V</field>
+        <field name="_Value_">WM8750CJLGEFL</field>
+      </fields>
+      <libsource lib="kimchi_ulid" part="WM8750CJLGEFL" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDF7597</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03_Male</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE51E54</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AVR-KiCAD-Lib-Resistors" part="RC0603FR-0747KL">
+      <docs>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-0747KL</field>
+        <field name="Footprint">AVR-KiCAD-Lib-Resistors:R0603</field>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.00421</field>
+        <field name="Cost QTY: 2500">0.00366</field>
+        <field name="Cost QTY: 5000">0.00274</field>
+        <field name="Cost QTY: 10000">0.00238</field>
+        <field name="MFR">Yageo</field>
+        <field name="MFR#">RC0603FR-0747KL</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">311-47.0KHRCT-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55m</field>
+        <field name="Date Created">6/18/2020</field>
+        <field name="Date Modified">6/18/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">1%</field>
+        <field name="Type">Resistor</field>
+        <field name="Voltage">*</field>
+        <field name="Package">0603</field>
+        <field name="_Value_">47K</field>
+        <field name="Description">47 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="54-00176">
+      <docs>http://www.kycon.com/2013Catalogpage/USB/KUSBX.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">54-00176</field>
+        <field name="Footprint">kimchi_ulid:54-00176</field>
+        <field name="Cost QTY: 1">0.91000</field>
+        <field name="Cost QTY: 1000">0.49600</field>
+        <field name="Cost QTY: 3000">0.44950</field>
+        <field name="Cost QTY: 5000">0.43400</field>
+        <field name="Cost QTY: 10000">0.41230</field>
+        <field name="MFR">Tensility International Corp</field>
+        <field name="MFR#">54-00176</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">839-54-00176TR-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4mm</field>
+        <field name="Date Created">12/8/2020</field>
+        <field name="Date Modified">12/8/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">ThroughHole Right Angle</field>
+        <field name="Pin Count #">6</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">3.5mm Audio</field>
+        <field name="Voltage">*</field>
+        <field name="Package">3.5mm Audio</field>
+        <field name="Description">3.50mm (0.141", 1/8", Mini Plug) - Headphone Phone Jack Stereo (4 Conductor, TRRS) Connector Solder</field>
+        <field name="_Value_">54-00176</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="ASFL1-12.288MHZ-EC-T">
+      <docs>https://abracon.com/Oscillators/ASFL1.pdf</docs>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">ASFL1-12.288MHZ-EC-T</field>
+        <field name="Footprint">kimchi_ulid:ASFL1</field>
+        <field name="Cost QTY: 1">1.14000</field>
+        <field name="Cost QTY: 1000">0.75048</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">0.68688</field>
+        <field name="Cost QTY: 10000">0.66144</field>
+        <field name="MFR">Abracon LLC</field>
+        <field name="MFR#">ASFL1-12.288MHZ-EC-T</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">300-8245-1-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4.4mm</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">4</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Crystal</field>
+        <field name="Voltage">3.3V</field>
+        <field name="Package">Proprietary</field>
+        <field name="Description">12.288MHz XO (Standard) HCMOS, TTL Oscillator 3.3V Enable/Disable 4-SMD, No Lead</field>
+        <field name="_Value_">ASFL1-12.288MHZ-EC-T</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Tri-State" type="input"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="C0402C104K9PACTU">
+      <docs>https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C0402C104K9PACTU</field>
+        <field name="Footprint">kimchi_ulid:C0402</field>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.01139</field>
+        <field name="Cost QTY: 2500">0.01035</field>
+        <field name="Cost QTY: 5000">0.00952</field>
+        <field name="Cost QTY: 10000">0.00756</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">C0402C104K9PACTU</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-3026-6-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Date Created">12/7/2019</field>
+        <field name="Date Modified">12/7/2019</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Voltage">6.3V</field>
+        <field name="Package">0402</field>
+        <field name="Description">0.1µF ±10% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)</field>
+        <field name="_Value_">0.1uF</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="FBMJ1608HM180NTR">
+      <docs>https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf</docs>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FBMJ1608HM180NTR</field>
+        <field name="Footprint">kimchi_ulid:R0603</field>
+        <field name="Cost QTY: 1">0.11000</field>
+        <field name="Cost QTY: 1000">0.03135</field>
+        <field name="Cost QTY: 2500">0.02660</field>
+        <field name="Cost QTY: 5000">0.02850</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">Taiyo Yuden</field>
+        <field name="MFR#">FBMJ1608HM180NTR</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">587-3251-1-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1mm</field>
+        <field name="Date Created">12/5/2019</field>
+        <field name="Date Modified">12/5/2019</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Ferrite Bead</field>
+        <field name="Voltage">*</field>
+        <field name="Package">0603</field>
+        <field name="_Value_">FBMJ1608HM180NTR</field>
+        <field name="Management_ID">*</field>
+        <field name="Description">18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="RC0402JR-072K2L">
+      <docs>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0402JR-072K2L</field>
+        <field name="Footprint">kimchi_ulid:R0402</field>
+        <field name="Cost QTY: 1">0.10000</field>
+        <field name="Cost QTY: 1000">0.00212</field>
+        <field name="Cost QTY: 2500">0.00184</field>
+        <field name="Cost QTY: 5000">0.00152</field>
+        <field name="Cost QTY: 10000">0.00132</field>
+        <field name="MFR">Yageo</field>
+        <field name="MFR#">RC0402JR-072K2L</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">311-2.2KJRCT-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.4mm</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">1%</field>
+        <field name="Type">Thick Film Resistor</field>
+        <field name="Voltage">*</field>
+        <field name="Package">0402</field>
+        <field name="_Value_">2.2K</field>
+        <field name="Management_ID">*</field>
+        <field name="Description">2.2 kOhms ±5% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="RCJ-2123">
+      <docs>https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RCJ-2123</field>
+        <field name="Footprint">kimchi_ulid:RCJ-2123</field>
+        <field name="Cost QTY: 1">1.67000</field>
+        <field name="Cost QTY: 1000">0.93000</field>
+        <field name="Cost QTY: 2500">0.86800</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">CUI Devices</field>
+        <field name="MFR#">RCJ-2123</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">CP-1432-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">5.12mm</field>
+        <field name="Date Created">12/14/2020</field>
+        <field name="Date Modified">12/14/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">ThroughHole Right Angle</field>
+        <field name="Pin Count #">4</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">RCA Jack</field>
+        <field name="Voltage">24VDC</field>
+        <field name="Package">*</field>
+        <field name="Description">3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder</field>
+        <field name="_Value_">RCJ-2123</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="SN74LV1T34DBVRG4">
+      <docs>http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lv1t34</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LV1T34DBVRG4</field>
+        <field name="Footprint">kimchi_ulid:SOT-23-5</field>
+        <field name="Cost QTY: 1">0.45000</field>
+        <field name="Cost QTY: 1000">0.14040</field>
+        <field name="Cost QTY: 3000">0.12870</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">Texas Instruments</field>
+        <field name="MFR#">SN74LV1T34DBVRG4</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">296-SN74LV1T34DBVRG4CT-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.11mm</field>
+        <field name="Date Created">12/10/2020</field>
+        <field name="Date Modified">12/10/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">5</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Buffer</field>
+        <field name="Voltage">3.3V</field>
+        <field name="Package">SOT23-5</field>
+        <field name="Description">Buffer, Non-Inverting 1 Element 1 Bit per Element Push-Pull Output SOT-23-5</field>
+        <field name="_Value_">SN74LV1T34DBVRG4</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="passive"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="T491A105K010AT">
+      <docs>https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">T491A105K010AT</field>
+        <field name="Footprint">kimchi_ulid:C1206</field>
+        <field name="Cost QTY: 1">0.30000</field>
+        <field name="Cost QTY: 1000">0.07980</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Cost QTY: 10000">0.06720</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491A105K010AT</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9449-2-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">0.55mm</field>
+        <field name="Date Created">12/9/2020</field>
+        <field name="Date Modified">12/9/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Ceramic Cap</field>
+        <field name="Voltage">10V</field>
+        <field name="Package">1206</field>
+        <field name="Description">1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) </field>
+        <field name="_Value_">1uF</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="T491D227M010AT">
+      <docs>https://api.kemet.com/component-edge/download/datasheet/T491D227M010AT.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">T491D227M010AT</field>
+        <field name="Footprint">kimchi_ulid:T491D227M010AT</field>
+        <field name="Cost QTY: 1">1.36000</field>
+        <field name="Cost QTY: 1000">0.53786</field>
+        <field name="Cost QTY: 2500">0.50200</field>
+        <field name="Cost QTY: 5000">0.48408</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T491D227M010AT</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9744-2-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">3.10mm</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">10%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Voltage">10VDC</field>
+        <field name="Package">2917</field>
+        <field name="Description">220µF Molded Tantalum Capacitors 10V 2917 (7343 Metric) 500mOhm</field>
+        <field name="_Value_">220uF</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="T494A106M006AT">
+      <docs>https://api.kemet.com/component-edge/download/datasheet/T494A106M006AT.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">T494A106M006AT</field>
+        <field name="Footprint">kimchi_ulid:T494A106M006AT</field>
+        <field name="Cost QTY: 1">0.69000</field>
+        <field name="Cost QTY: 1000">0.23100</field>
+        <field name="Cost QTY: 2500">0.23100</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">KEMET</field>
+        <field name="MFR#">T494A106M006AT</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">399-9757-2-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.8mm</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Tantalum Cap</field>
+        <field name="Voltage">6.3V</field>
+        <field name="Package">1206</field>
+        <field name="Description">10µF Molded Tantalum Capacitors 6.3V 1206 (3216 Metric) 2Ohm</field>
+        <field name="_Value_">10uF</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="UZP1H0R1MCL1GB">
+      <docs>https://media.digikey.com/pdf/Data%20Sheets/Nichicon%20PDFs/ZP_Series.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">UZP1H0R1MCL1GB</field>
+        <field name="Footprint">kimchi_ulid:UZP1H0R1MCL1GB</field>
+        <field name="Cost QTY: 1">0.71000</field>
+        <field name="Cost QTY: 1000">0.20706</field>
+        <field name="Cost QTY: 2500">*</field>
+        <field name="Cost QTY: 5000">*</field>
+        <field name="Cost QTY: 10000">0.17052</field>
+        <field name="MFR">Nichicon</field>
+        <field name="MFR#">UZP1H0R1MCL1GB</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">493-10087-2-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">4.6mm</field>
+        <field name="Date Created">12/16/2020</field>
+        <field name="Date Modified">12/16/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">2</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">20%</field>
+        <field name="Type">Aluminum Cap</field>
+        <field name="Voltage">50V</field>
+        <field name="Package">*</field>
+        <field name="Description">0.1µF 50V Aluminum Electrolytic Capacitors Radial, Can - SMD  2000 Hrs @ 85°C</field>
+        <field name="_Value_">0.1uF</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid" part="WM8750CJLGEFL">
+      <docs>https://d3uzseaevmutz1.cloudfront.net/pubs/proDatasheet/WM8750JL_v4.1.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WM8750CJLGEFL</field>
+        <field name="Footprint">kimchi_ulid:QFN-32_EP_5x5_Pitch0.5mm</field>
+        <field name="Cost QTY: 1">5.59000</field>
+        <field name="Cost QTY: 1000">2.80630</field>
+        <field name="Cost QTY: 2500">2.70080</field>
+        <field name="Cost QTY: 5000">2.61640</field>
+        <field name="Cost QTY: 10000">*</field>
+        <field name="MFR">Cirrus Logic Inc.</field>
+        <field name="MFR#">WM8750CJLGEFL</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Vendor #">598-2392-ND</field>
+        <field name="Designer">AVR</field>
+        <field name="Height">1.1mm</field>
+        <field name="Date Created">12/15/2020</field>
+        <field name="Date Modified">12/15/2020</field>
+        <field name="Lead-Free ?">Yes</field>
+        <field name="RoHS Levels">1</field>
+        <field name="Mounting">SMT</field>
+        <field name="Pin Count #">32</field>
+        <field name="Status">Active</field>
+        <field name="Tolerance">*</field>
+        <field name="Type">Audio Codec</field>
+        <field name="Voltage">3.3V</field>
+        <field name="Package">QFN</field>
+        <field name="Description">Stereo Audio Interface 24 b  32-QFN (5x5)</field>
+        <field name="_Value_">WM8750CJLGEFL</field>
+        <field name="Management_ID">*</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MCLK" type="input"/>
+        <pin num="2" name="DCVDD" type="power_in"/>
+        <pin num="3" name="DBVDD" type="power_in"/>
+        <pin num="4" name="DGND" type="passive"/>
+        <pin num="5" name="BCLK" type="BiDi"/>
+        <pin num="6" name="DACDAT" type="input"/>
+        <pin num="7" name="DACLRC" type="BiDi"/>
+        <pin num="8" name="ADCDAT" type="output"/>
+        <pin num="9" name="ADCLRC" type="BiDi"/>
+        <pin num="10" name="MONOOUT" type="output"/>
+        <pin num="11" name="OUT3" type="output"/>
+        <pin num="12" name="ROUT1" type="output"/>
+        <pin num="13" name="LOUT1" type="output"/>
+        <pin num="14" name="HPGND" type="passive"/>
+        <pin num="15" name="ROUT2" type="output"/>
+        <pin num="16" name="LOUT2" type="output"/>
+        <pin num="17" name="HPVDD" type="power_in"/>
+        <pin num="18" name="AVDD" type="power_in"/>
+        <pin num="19" name="AGND" type="passive"/>
+        <pin num="20" name="VREF" type="output"/>
+        <pin num="21" name="VMID" type="output"/>
+        <pin num="22" name="MICBIAS" type="output"/>
+        <pin num="23" name="RINPUT3/HPDETECT" type="input"/>
+        <pin num="24" name="LINPUT3" type="input"/>
+        <pin num="25" name="RINPUT2" type="input"/>
+        <pin num="26" name="LINPUT2" type="input"/>
+        <pin num="27" name="RINPUT1" type="input"/>
+        <pin num="28" name="LINPUT1" type="input"/>
+        <pin num="29" name="MODE" type="input"/>
+        <pin num="30" name="CSB" type="input"/>
+        <pin num="31" name="SDIN" type="BiDi"/>
+        <pin num="32" name="SCLK" type="input"/>
+        <pin num="33" name="PAD_GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid-rescue" part="24LC16-Memory_EEPROM">
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>DFN*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">24LC16-Memory_EEPROM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="BiDi"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid-rescue" part="Conn_02x30_Counter_Clockwise-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x30_Counter_Clockwise-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+        <pin num="41" name="Pin_41" type="passive"/>
+        <pin num="42" name="Pin_42" type="passive"/>
+        <pin num="43" name="Pin_43" type="passive"/>
+        <pin num="44" name="Pin_44" type="passive"/>
+        <pin num="45" name="Pin_45" type="passive"/>
+        <pin num="46" name="Pin_46" type="passive"/>
+        <pin num="47" name="Pin_47" type="passive"/>
+        <pin num="48" name="Pin_48" type="passive"/>
+        <pin num="49" name="Pin_49" type="passive"/>
+        <pin num="50" name="Pin_50" type="passive"/>
+        <pin num="51" name="Pin_51" type="passive"/>
+        <pin num="52" name="Pin_52" type="passive"/>
+        <pin num="53" name="Pin_53" type="passive"/>
+        <pin num="54" name="Pin_54" type="passive"/>
+        <pin num="55" name="Pin_55" type="passive"/>
+        <pin num="56" name="Pin_56" type="passive"/>
+        <pin num="57" name="Pin_57" type="passive"/>
+        <pin num="58" name="Pin_58" type="passive"/>
+        <pin num="59" name="Pin_59" type="passive"/>
+        <pin num="60" name="Pin_60" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kimchi_ulid-rescue" part="Logo_Open_Hardware_Small-Graphic">
+      <fields>
+        <field name="Reference">#LOGO</field>
+        <field name="Value">Logo_Open_Hardware_Small-Graphic</field>
+      </fields>
+    </libpart>
+    <libpart lib="kimchi_ulid-rescue" part="MountingHole_Pad-Mechanical">
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad-Mechanical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AVR-KiCAD-Lib-Resistors">
+      <uri>C:\Users\adam\Documents\GitHub\AVR-KiCAD-Lib\Lib\AVR-KiCAD-Lib/AVR-KiCAD-Lib-Resistors.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="kimchi_ulid">
+      <uri>C:\Users\adam\Documents\GitHub\kimchi-HiFi-lid\PCB/kimchi_ulid.lib</uri>
+    </library>
+    <library logical="kimchi_ulid-rescue">
+      <uri>C:\Users\adam\Documents\GitHub\kimchi-HiFi-lid\PCB/kimchi_ulid-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="MIC_BIAS">
+      <node ref="C18" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U2" pin="22"/>
+    </net>
+    <net code="2" name="Net-(C15-Pad2)">
+      <node ref="J5" pin="4"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(C12-Pad2)">
+      <node ref="J5" pin="3"/>
+      <node ref="C12" pin="2"/>
+    </net>
+    <net code="4" name="Net-(FB5-Pad2)">
+      <node ref="FB5" pin="2"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="5" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C17-Pad1)">
+      <node ref="U2" pin="15"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="7" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1"/>
+      <node ref="U2" pin="16"/>
+    </net>
+    <net code="8" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1"/>
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C23" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U2" pin="19"/>
+      <node ref="J2" pin="12"/>
+      <node ref="U2" pin="29"/>
+      <node ref="U2" pin="33"/>
+      <node ref="U2" pin="4"/>
+      <node ref="U2" pin="14"/>
+      <node ref="J2" pin="11"/>
+      <node ref="C24" pin="2"/>
+      <node ref="J2" pin="13"/>
+      <node ref="J2" pin="51"/>
+      <node ref="H3" pin="1"/>
+      <node ref="H4" pin="1"/>
+      <node ref="H2" pin="1"/>
+      <node ref="J2" pin="14"/>
+      <node ref="H1" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="7"/>
+      <node ref="J3" pin="53"/>
+      <node ref="J3" pin="50"/>
+      <node ref="J3" pin="51"/>
+      <node ref="J3" pin="52"/>
+      <node ref="J3" pin="38"/>
+      <node ref="J3" pin="39"/>
+      <node ref="J3" pin="40"/>
+      <node ref="J3" pin="41"/>
+      <node ref="FB4" pin="1"/>
+      <node ref="FB1" pin="1"/>
+      <node ref="FB3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="X1" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="FB2" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="FB5" pin="1"/>
+    </net>
+    <net code="10" name="Net-(J5-Pad6)">
+      <node ref="J5" pin="6"/>
+    </net>
+    <net code="11" name="Net-(J6-Pad2)">
+      <node ref="U2" pin="1"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="12" name="Net-(U3-Pad2)">
+      <node ref="X1" pin="3"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="13" name="Net-(J5-Pad5)">
+      <node ref="J5" pin="5"/>
+    </net>
+    <net code="14" name="USB2_DP">
+      <node ref="J2" pin="60"/>
+      <node ref="J3" pin="59"/>
+    </net>
+    <net code="15" name="USB2_DN">
+      <node ref="J3" pin="60"/>
+      <node ref="J2" pin="59"/>
+    </net>
+    <net code="16" name="VDD_3V3">
+      <node ref="C21" pin="1"/>
+      <node ref="FB6" pin="1"/>
+      <node ref="FB7" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="8"/>
+      <node ref="J3" pin="54"/>
+      <node ref="J3" pin="55"/>
+      <node ref="J3" pin="56"/>
+      <node ref="J3" pin="57"/>
+      <node ref="C20" pin="1"/>
+    </net>
+    <net code="17" name="VDDA">
+      <node ref="C4" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="FB6" pin="2"/>
+      <node ref="C25" pin="1"/>
+      <node ref="U2" pin="17"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U2" pin="18"/>
+    </net>
+    <net code="18" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="19" name="Net-(FB3-Pad2)">
+      <node ref="J4" pin="1"/>
+      <node ref="FB3" pin="2"/>
+    </net>
+    <net code="20" name="Net-(C13-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="U2" pin="21"/>
+    </net>
+    <net code="21" name="MCLK">
+      <node ref="U3" pin="4"/>
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="22" name="VDD">
+      <node ref="X1" pin="4"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U2" pin="3"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="U2" pin="2"/>
+      <node ref="FB7" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C24" pin="1"/>
+    </net>
+    <net code="23" name="Net-(X1-Pad1)">
+      <node ref="X1" pin="1"/>
+    </net>
+    <net code="24" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C1-Pad1)">
+      <node ref="U2" pin="28"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="26" name="MIC_IN">
+      <node ref="C15" pin="1"/>
+      <node ref="U2" pin="23"/>
+    </net>
+    <net code="27" name="Net-(C2-Pad1)">
+      <node ref="U2" pin="27"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="28" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="29" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="30" name="Net-(FB1-Pad2)">
+      <node ref="FB1" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="31" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="32" name="Net-(FB4-Pad2)">
+      <node ref="FB4" pin="2"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="33" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="34" name="Net-(FB2-Pad2)">
+      <node ref="FB2" pin="2"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="35" name="Net-(U2-Pad25)">
+      <node ref="U2" pin="25"/>
+    </net>
+    <net code="36" name="Net-(U2-Pad24)">
+      <node ref="U2" pin="24"/>
+    </net>
+    <net code="37" name="Net-(U2-Pad26)">
+      <node ref="U2" pin="26"/>
+    </net>
+    <net code="38" name="Net-(U2-Pad30)">
+      <node ref="U2" pin="30"/>
+    </net>
+    <net code="39" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="40" name="Net-(U2-Pad11)">
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="41" name="SAI3_RXD">
+      <node ref="U2" pin="8"/>
+      <node ref="J3" pin="33"/>
+    </net>
+    <net code="42" name="I2C4_SDA">
+      <node ref="J2" pin="15"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="43" name="I2C4_SCL">
+      <node ref="J2" pin="16"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="44" name="SAI3_TXC">
+      <node ref="J3" pin="31"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="45" name="SAI3_TXFS">
+      <node ref="J3" pin="36"/>
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="46" name="SAI3_RXFS">
+      <node ref="J3" pin="34"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="47" name="SAI3_TXD">
+      <node ref="J3" pin="32"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="48" name="I2C3_SDA">
+      <node ref="U2" pin="31"/>
+      <node ref="J2" pin="17"/>
+    </net>
+    <net code="49" name="I2C3_SCL">
+      <node ref="U2" pin="32"/>
+      <node ref="J2" pin="18"/>
+    </net>
+    <net code="50" name="SAI3_MCLK">
+      <node ref="J3" pin="37"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="51" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="U2" pin="20"/>
+    </net>
+    <net code="52" name="/ENET_TD1">
+      <node ref="J3" pin="9"/>
+    </net>
+    <net code="53" name="/ENET_RX_CTL">
+      <node ref="J3" pin="8"/>
+    </net>
+    <net code="54" name="SAI2_RXD0">
+      <node ref="J3" pin="15"/>
+    </net>
+    <net code="55" name="/ENET_MDIO">
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="56" name="/ENET_TD0">
+      <node ref="J3" pin="10"/>
+    </net>
+    <net code="57" name="/ENET_TD3">
+      <node ref="J3" pin="11"/>
+    </net>
+    <net code="58" name="/ENET_TD2">
+      <node ref="J3" pin="12"/>
+    </net>
+    <net code="59" name="/ENET_TX_CTL">
+      <node ref="J3" pin="13"/>
+    </net>
+    <net code="60" name="/ENET_TXC">
+      <node ref="J3" pin="14"/>
+    </net>
+    <net code="61" name="SAI2_TXFS">
+      <node ref="J3" pin="16"/>
+    </net>
+    <net code="62" name="SAI2_RXC">
+      <node ref="J3" pin="17"/>
+    </net>
+    <net code="63" name="SAI2_TXD0">
+      <node ref="J3" pin="18"/>
+    </net>
+    <net code="64" name="SAI2_TXC">
+      <node ref="J3" pin="19"/>
+    </net>
+    <net code="65" name="/ENET_MDC">
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="66" name="SAI2_MCLK">
+      <node ref="J3" pin="20"/>
+    </net>
+    <net code="67" name="SAI2_RXFS">
+      <node ref="J3" pin="21"/>
+    </net>
+    <net code="68" name="GPIO1[15]">
+      <node ref="J3" pin="22"/>
+    </net>
+    <net code="69" name="GPIO1[14]">
+      <node ref="J3" pin="23"/>
+    </net>
+    <net code="70" name="GPIO1[13]">
+      <node ref="J3" pin="24"/>
+    </net>
+    <net code="71" name="UART1_TX">
+      <node ref="J3" pin="46"/>
+    </net>
+    <net code="72" name="UART1_RX">
+      <node ref="J3" pin="47"/>
+    </net>
+    <net code="73" name="UART3_TX">
+      <node ref="J3" pin="48"/>
+    </net>
+    <net code="74" name="UART3_RX">
+      <node ref="J3" pin="49"/>
+    </net>
+    <net code="75" name="/ENET_RD2">
+      <node ref="J3" pin="5"/>
+    </net>
+    <net code="76" name="Net-(J3-Pad58)">
+      <node ref="J3" pin="58"/>
+    </net>
+    <net code="77" name="/ENET_RD0">
+      <node ref="J3" pin="6"/>
+    </net>
+    <net code="78" name="/ENET_RXC">
+      <node ref="J3" pin="7"/>
+    </net>
+    <net code="79" name="GPIO1[12]">
+      <node ref="J3" pin="25"/>
+    </net>
+    <net code="80" name="GPIO1[11]">
+      <node ref="J3" pin="26"/>
+    </net>
+    <net code="81" name="GPIO1[10]">
+      <node ref="J3" pin="27"/>
+    </net>
+    <net code="82" name="GPIO1[9]">
+      <node ref="J3" pin="28"/>
+    </net>
+    <net code="83" name="GPIO1[1]">
+      <node ref="J3" pin="29"/>
+    </net>
+    <net code="84" name="/ENET_RD3">
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="85" name="GPIO1[0]">
+      <node ref="J3" pin="30"/>
+    </net>
+    <net code="86" name="SAI3_RXC">
+      <node ref="J3" pin="35"/>
+    </net>
+    <net code="87" name="/ENET_RD1">
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="88" name="/CAM_D0_P">
+      <node ref="J2" pin="42"/>
+    </net>
+    <net code="89" name="/DISP_D1_N">
+      <node ref="J2" pin="33"/>
+    </net>
+    <net code="90" name="/DISP_D1_P">
+      <node ref="J2" pin="34"/>
+    </net>
+    <net code="91" name="/DISP_CK_N">
+      <node ref="J2" pin="35"/>
+    </net>
+    <net code="92" name="/DISP_CK_P">
+      <node ref="J2" pin="36"/>
+    </net>
+    <net code="93" name="/DISP_D2_N">
+      <node ref="J2" pin="37"/>
+    </net>
+    <net code="94" name="/DISP_D2_P">
+      <node ref="J2" pin="38"/>
+    </net>
+    <net code="95" name="/DISP_D3_N">
+      <node ref="J2" pin="39"/>
+    </net>
+    <net code="96" name="/USDHC3_DATA0">
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="97" name="/DISP_D3_P">
+      <node ref="J2" pin="40"/>
+    </net>
+    <net code="98" name="/CAM_D0_N">
+      <node ref="J2" pin="41"/>
+    </net>
+    <net code="99" name="/DISP_D0_P">
+      <node ref="J2" pin="32"/>
+    </net>
+    <net code="100" name="/CAM_D1_N">
+      <node ref="J2" pin="43"/>
+    </net>
+    <net code="101" name="/CAM_D1_P">
+      <node ref="J2" pin="44"/>
+    </net>
+    <net code="102" name="/CAM_CK_N">
+      <node ref="J2" pin="45"/>
+    </net>
+    <net code="103" name="/CAM_CK_P">
+      <node ref="J2" pin="46"/>
+    </net>
+    <net code="104" name="/CAM_D2_N">
+      <node ref="J2" pin="47"/>
+    </net>
+    <net code="105" name="/CAM_D2_P">
+      <node ref="J2" pin="48"/>
+    </net>
+    <net code="106" name="/CAM_D3_N">
+      <node ref="J2" pin="49"/>
+    </net>
+    <net code="107" name="/USDHC3_DATA1">
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="108" name="/CAM_D3_P">
+      <node ref="J2" pin="50"/>
+    </net>
+    <net code="109" name="ECSPI1_SCLK">
+      <node ref="J2" pin="23"/>
+    </net>
+    <net code="110" name="I2C2_SDA">
+      <node ref="J2" pin="19"/>
+    </net>
+    <net code="111" name="/USDHC3_CLK">
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="112" name="I2C2_SCL">
+      <node ref="J2" pin="20"/>
+    </net>
+    <net code="113" name="I2C1_SDA">
+      <node ref="J2" pin="21"/>
+    </net>
+    <net code="114" name="I2C1_SCL">
+      <node ref="J2" pin="22"/>
+    </net>
+    <net code="115" name="ECSPI1_SS0">
+      <node ref="J2" pin="24"/>
+    </net>
+    <net code="116" name="ECSPI1_MOSI">
+      <node ref="J2" pin="25"/>
+    </net>
+    <net code="117" name="ECSPI1_MISO">
+      <node ref="J2" pin="26"/>
+    </net>
+    <net code="118" name="ECSPI2_SCLK">
+      <node ref="J2" pin="27"/>
+    </net>
+    <net code="119" name="ECSPI2_SS0">
+      <node ref="J2" pin="28"/>
+    </net>
+    <net code="120" name="ECSPI2_MOSI">
+      <node ref="J2" pin="29"/>
+    </net>
+    <net code="121" name="/USDHC3_DATA3">
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="122" name="ECSPI2_MISO">
+      <node ref="J2" pin="30"/>
+    </net>
+    <net code="123" name="/DISP_D0_N">
+      <node ref="J2" pin="31"/>
+    </net>
+    <net code="124" name="UIM_VPP">
+      <node ref="J2" pin="52"/>
+    </net>
+    <net code="125" name="UIM_RESET_N">
+      <node ref="J2" pin="53"/>
+    </net>
+    <net code="126" name="UIM_CLK">
+      <node ref="J2" pin="54"/>
+    </net>
+    <net code="127" name="UIM_DATA">
+      <node ref="J2" pin="55"/>
+    </net>
+    <net code="128" name="UIM_PWR">
+      <node ref="J2" pin="56"/>
+    </net>
+    <net code="129" name="USB2_VBUS">
+      <node ref="J2" pin="57"/>
+    </net>
+    <net code="130" name="USB2_ID">
+      <node ref="J2" pin="58"/>
+    </net>
+    <net code="131" name="/USDHC3_DATA2">
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="132" name="VDD_5V">
+      <node ref="J2" pin="10"/>
+      <node ref="J2" pin="7"/>
+      <node ref="J2" pin="8"/>
+      <node ref="J2" pin="9"/>
+    </net>
+    <net code="133" name="VDD_1V8">
+      <node ref="J3" pin="44"/>
+      <node ref="J3" pin="45"/>
+      <node ref="J3" pin="43"/>
+      <node ref="J3" pin="42"/>
+    </net>
+    <net code="134" name="/USDHC3_CMD">
+      <node ref="J2" pin="1"/>
+    </net>
+  </nets>
+</export>
