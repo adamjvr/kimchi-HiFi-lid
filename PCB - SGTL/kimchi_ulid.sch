@@ -1383,8 +1383,6 @@ Wire Wire Line
 	13950 7450 15100 7450
 Wire Wire Line
 	14300 7700 14300 7550
-Wire Wire Line
-	2200 9400 1200 9400
 $Comp
 L kimchi_ulid:T491D227M010AT C10
 U 1 1 5FEF4442
@@ -2119,10 +2117,8 @@ Text GLabel 4700 6750 0    50   Input ~ 0
 SAI3_TXC
 Text GLabel 4700 6650 0    50   Input ~ 0
 SAI3_TXFS
-Text GLabel 5200 7150 0    50   Input ~ 0
+Text GLabel 7550 6950 2    50   Input ~ 0
 SAI3_RXD
-Text GLabel 5200 7250 0    50   Input ~ 0
-SAI3_RXFS
 Text GLabel 5200 7050 0    50   Input ~ 0
 SAI3_TXD
 Wire Wire Line
@@ -2135,14 +2131,6 @@ Wire Wire Line
 	4700 6650 6050 6650
 Wire Wire Line
 	6050 7050 5200 7050
-Text GLabel 1900 9600 0    50   Input ~ 0
-I2C3_SDA
-Text GLabel 1900 9500 0    50   Input ~ 0
-I2C3_SCL
-Wire Wire Line
-	1900 9500 2200 9500
-Wire Wire Line
-	2200 9600 1900 9600
 $Comp
 L kimchi_ulid:GG_LOGO L1
 U 1 1 6012EC1D
@@ -2345,4 +2333,10 @@ Wire Wire Line
 Wire Wire Line
 	5000 7900 3850 7900
 Connection ~ 5000 7900
+Text GLabel 5200 7150 0    50   Input ~ 0
+I2C3_SDA
+Text GLabel 5200 7250 0    50   Input ~ 0
+I2C3_SCL
+Wire Wire Line
+	7450 6950 7550 6950
 $EndSCHEMATC
