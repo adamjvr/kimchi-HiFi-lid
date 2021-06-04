@@ -785,73 +785,73 @@ $EndComp
 $Comp
 L kimchi_ulid:T491A105K010AT C1
 U 1 1 5FD5E744
-P 4050 5650
-F 0 "C1" H 4150 5600 50  0000 C CNN
-F 1 "T491A105K010AT" H 4100 5850 50  0001 C CNN
-F 2 "kimchi_ulid:C1206" H 3850 5650 50  0001 C CNN
-F 3 "https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html" H 3950 5750 50  0001 C CNN
-F 4 "0.30000" H 4150 5900 50  0001 C CNN "Cost QTY: 1"
-F 5 "0.07980" H 4250 6000 50  0001 C CNN "Cost QTY: 1000"
-F 6 "*" H 4350 6100 50  0001 C CNN "Cost QTY: 2500"
-F 7 "*" H 4450 6200 50  0001 C CNN "Cost QTY: 5000"
-F 8 "0.06720" H 4550 6300 50  0001 C CNN "Cost QTY: 10000"
-F 9 "KEMET" H 4650 6400 50  0001 C CNN "MFR"
-F 10 "T491A105K010AT" H 4750 6500 50  0001 C CNN "MFR#"
-F 11 "Digikey" H 4850 6600 50  0001 C CNN "Vendor"
-F 12 "399-9449-2-ND" H 4950 6700 50  0001 C CNN "Vendor #"
-F 13 "AVR" H 5050 6800 50  0001 C CNN "Designer"
-F 14 "0.55mm" H 5150 6900 50  0001 C CNN "Height"
-F 15 "12/9/2020" H 6250 8000 50  0001 C CNN "Date Created"
-F 16 "12/9/2020" H 5250 7000 50  0001 C CNN "Date Modified"
-F 17 "Yes" H 5350 7100 50  0001 C CNN "Lead-Free ?"
-F 18 "1" H 5450 7200 50  0001 C CNN "RoHS Levels"
-F 19 "SMT" H 5550 7300 50  0001 C CNN "Mounting"
-F 20 "2" H 5650 7400 50  0001 C CNN "Pin Count #"
-F 21 "Active" H 5750 7500 50  0001 C CNN "Status"
-F 22 "10%" H 5850 7600 50  0001 C CNN "Tolerance"
-F 23 "Ceramic Cap" H 5950 7700 50  0001 C CNN "Type"
-F 24 "10V" H 6050 7800 50  0001 C CNN "Voltage"
-F 25 "1206" H 6150 7950 50  0001 C CNN "Package"
-F 26 "1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) " H 6550 8350 50  0001 C CNN "Description"
-F 27 "1uF" H 3950 5600 50  0000 C CNN "_Value_"
-F 28 "*" H 6450 8250 50  0001 C CNN "Management_ID"
-	1    4050 5650
+P 5050 5650
+F 0 "C1" H 5150 5600 50  0000 C CNN
+F 1 "T491A105K010AT" H 5100 5850 50  0001 C CNN
+F 2 "kimchi_ulid:C1206" H 4850 5650 50  0001 C CNN
+F 3 "https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html" H 4950 5750 50  0001 C CNN
+F 4 "0.30000" H 5150 5900 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.07980" H 5250 6000 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 5350 6100 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 5450 6200 50  0001 C CNN "Cost QTY: 5000"
+F 8 "0.06720" H 5550 6300 50  0001 C CNN "Cost QTY: 10000"
+F 9 "KEMET" H 5650 6400 50  0001 C CNN "MFR"
+F 10 "T491A105K010AT" H 5750 6500 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 5850 6600 50  0001 C CNN "Vendor"
+F 12 "399-9449-2-ND" H 5950 6700 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 6050 6800 50  0001 C CNN "Designer"
+F 14 "0.55mm" H 6150 6900 50  0001 C CNN "Height"
+F 15 "12/9/2020" H 7250 8000 50  0001 C CNN "Date Created"
+F 16 "12/9/2020" H 6250 7000 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 6350 7100 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 6450 7200 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 6550 7300 50  0001 C CNN "Mounting"
+F 20 "2" H 6650 7400 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 6750 7500 50  0001 C CNN "Status"
+F 22 "10%" H 6850 7600 50  0001 C CNN "Tolerance"
+F 23 "Ceramic Cap" H 6950 7700 50  0001 C CNN "Type"
+F 24 "10V" H 7050 7800 50  0001 C CNN "Voltage"
+F 25 "1206" H 7150 7950 50  0001 C CNN "Package"
+F 26 "1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) " H 7550 8350 50  0001 C CNN "Description"
+F 27 "1uF" H 4950 5600 50  0000 C CNN "_Value_"
+F 28 "*" H 7450 8250 50  0001 C CNN "Management_ID"
+	1    5050 5650
 	-1   0    0    -1  
 $EndComp
 $Comp
 L kimchi_ulid:T491A105K010AT C2
 U 1 1 5FD58847
-P 4400 5500
-F 0 "C2" H 4500 5450 50  0000 C CNN
-F 1 "T491A105K010AT" H 4450 5700 50  0001 C CNN
-F 2 "kimchi_ulid:C1206" H 4200 5500 50  0001 C CNN
-F 3 "https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html" H 4300 5600 50  0001 C CNN
-F 4 "0.30000" H 4500 5750 50  0001 C CNN "Cost QTY: 1"
-F 5 "0.07980" H 4600 5850 50  0001 C CNN "Cost QTY: 1000"
-F 6 "*" H 4700 5950 50  0001 C CNN "Cost QTY: 2500"
-F 7 "*" H 4800 6050 50  0001 C CNN "Cost QTY: 5000"
-F 8 "0.06720" H 4900 6150 50  0001 C CNN "Cost QTY: 10000"
-F 9 "KEMET" H 5000 6250 50  0001 C CNN "MFR"
-F 10 "T491A105K010AT" H 5100 6350 50  0001 C CNN "MFR#"
-F 11 "Digikey" H 5200 6450 50  0001 C CNN "Vendor"
-F 12 "399-9449-2-ND" H 5300 6550 50  0001 C CNN "Vendor #"
-F 13 "AVR" H 5400 6650 50  0001 C CNN "Designer"
-F 14 "0.55mm" H 5500 6750 50  0001 C CNN "Height"
-F 15 "12/9/2020" H 6600 7850 50  0001 C CNN "Date Created"
-F 16 "12/9/2020" H 5600 6850 50  0001 C CNN "Date Modified"
-F 17 "Yes" H 5700 6950 50  0001 C CNN "Lead-Free ?"
-F 18 "1" H 5800 7050 50  0001 C CNN "RoHS Levels"
-F 19 "SMT" H 5900 7150 50  0001 C CNN "Mounting"
-F 20 "2" H 6000 7250 50  0001 C CNN "Pin Count #"
-F 21 "Active" H 6100 7350 50  0001 C CNN "Status"
-F 22 "10%" H 6200 7450 50  0001 C CNN "Tolerance"
-F 23 "Ceramic Cap" H 6300 7550 50  0001 C CNN "Type"
-F 24 "10V" H 6400 7650 50  0001 C CNN "Voltage"
-F 25 "1206" H 6500 7800 50  0001 C CNN "Package"
-F 26 "1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) " H 6900 8200 50  0001 C CNN "Description"
-F 27 "1uF" H 4300 5450 50  0000 C CNN "_Value_"
-F 28 "*" H 6800 8100 50  0001 C CNN "Management_ID"
-	1    4400 5500
+P 5400 5500
+F 0 "C2" H 5500 5450 50  0000 C CNN
+F 1 "T491A105K010AT" H 5450 5700 50  0001 C CNN
+F 2 "kimchi_ulid:C1206" H 5200 5500 50  0001 C CNN
+F 3 "https://www.digikey.com/htmldatasheets/production/2487974/0/0/1/t491-series.html" H 5300 5600 50  0001 C CNN
+F 4 "0.30000" H 5500 5750 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.07980" H 5600 5850 50  0001 C CNN "Cost QTY: 1000"
+F 6 "*" H 5700 5950 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 5800 6050 50  0001 C CNN "Cost QTY: 5000"
+F 8 "0.06720" H 5900 6150 50  0001 C CNN "Cost QTY: 10000"
+F 9 "KEMET" H 6000 6250 50  0001 C CNN "MFR"
+F 10 "T491A105K010AT" H 6100 6350 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 6200 6450 50  0001 C CNN "Vendor"
+F 12 "399-9449-2-ND" H 6300 6550 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 6400 6650 50  0001 C CNN "Designer"
+F 14 "0.55mm" H 6500 6750 50  0001 C CNN "Height"
+F 15 "12/9/2020" H 7600 7850 50  0001 C CNN "Date Created"
+F 16 "12/9/2020" H 6600 6850 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 6700 6950 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 6800 7050 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 6900 7150 50  0001 C CNN "Mounting"
+F 20 "2" H 7000 7250 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 7100 7350 50  0001 C CNN "Status"
+F 22 "10%" H 7200 7450 50  0001 C CNN "Tolerance"
+F 23 "Ceramic Cap" H 7300 7550 50  0001 C CNN "Type"
+F 24 "10V" H 7400 7650 50  0001 C CNN "Voltage"
+F 25 "1206" H 7500 7800 50  0001 C CNN "Package"
+F 26 "1µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) " H 7900 8200 50  0001 C CNN "Description"
+F 27 "1uF" H 5300 5450 50  0000 C CNN "_Value_"
+F 28 "*" H 7800 8100 50  0001 C CNN "Management_ID"
+	1    5400 5500
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
@@ -861,37 +861,37 @@ Wire Wire Line
 $Comp
 L kimchi_ulid:RCJ-2123 J1
 U 1 1 5FDBB09A
-P 2300 5200
-F 0 "J1" H 2300 5250 50  0000 L CNN
-F 1 "RCJ-2123" H 2300 4350 50  0000 L CNN
-F 2 "kimchi_ulid:RCJ-2123" H 2300 5375 50  0001 C CNN
-F 3 "https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf" H 2300 5200 50  0001 C CNN
-F 4 "1.67000" H 2400 5450 50  0001 C CNN "Cost QTY: 1"
-F 5 "0.93000" H 2500 5550 50  0001 C CNN "Cost QTY: 1000"
-F 6 "0.86800" H 2600 5650 50  0001 C CNN "Cost QTY: 2500"
-F 7 "*" H 2700 5750 50  0001 C CNN "Cost QTY: 5000"
-F 8 "*" H 2800 5850 50  0001 C CNN "Cost QTY: 10000"
-F 9 "CUI Devices" H 2900 5950 50  0001 C CNN "MFR"
-F 10 "RCJ-2123" H 3000 6050 50  0001 C CNN "MFR#"
-F 11 "Digikey" H 3100 6150 50  0001 C CNN "Vendor"
-F 12 "CP-1432-ND" H 3200 6250 50  0001 C CNN "Vendor #"
-F 13 "AVR" H 3300 6350 50  0001 C CNN "Designer"
-F 14 "5.12mm" H 3400 6450 50  0001 C CNN "Height"
-F 15 "12/14/2020" H 4500 7550 50  0001 C CNN "Date Created"
-F 16 "12/14/2020" H 3500 6550 50  0001 C CNN "Date Modified"
-F 17 "Yes" H 3600 6650 50  0001 C CNN "Lead-Free ?"
-F 18 "1" H 3700 6750 50  0001 C CNN "RoHS Levels"
-F 19 "ThroughHole Right Angle" H 3800 6850 50  0001 C CNN "Mounting"
-F 20 "4" H 3900 6950 50  0001 C CNN "Pin Count #"
-F 21 "Active" H 4000 7050 50  0001 C CNN "Status"
-F 22 "*" H 4100 7150 50  0001 C CNN "Tolerance"
-F 23 "RCA Jack" H 4200 7250 50  0001 C CNN "Type"
-F 24 "24VDC" H 4300 7350 50  0001 C CNN "Voltage"
-F 25 "*" H 4400 7500 50  0001 C CNN "Package"
-F 26 "3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder" H 4700 7800 50  0001 C CNN "Description"
-F 27 "RCJ-2123" H 4600 7700 50  0001 C CNN "_Value_"
-F 28 "*" H 4700 7800 50  0001 C CNN "Management_ID"
-	1    2300 5200
+P 3500 5200
+F 0 "J1" H 3500 5250 50  0000 L CNN
+F 1 "RCJ-2123" H 3500 4350 50  0000 L CNN
+F 2 "kimchi_ulid:RCJ-2123" H 3500 5375 50  0001 C CNN
+F 3 "https://www.cuidevices.com/product/resource/digikeypdf/rcj-21xx.pdf" H 3500 5200 50  0001 C CNN
+F 4 "1.67000" H 3600 5450 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.93000" H 3700 5550 50  0001 C CNN "Cost QTY: 1000"
+F 6 "0.86800" H 3800 5650 50  0001 C CNN "Cost QTY: 2500"
+F 7 "*" H 3900 5750 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4000 5850 50  0001 C CNN "Cost QTY: 10000"
+F 9 "CUI Devices" H 4100 5950 50  0001 C CNN "MFR"
+F 10 "RCJ-2123" H 4200 6050 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 4300 6150 50  0001 C CNN "Vendor"
+F 12 "CP-1432-ND" H 4400 6250 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 4500 6350 50  0001 C CNN "Designer"
+F 14 "5.12mm" H 4600 6450 50  0001 C CNN "Height"
+F 15 "12/14/2020" H 5700 7550 50  0001 C CNN "Date Created"
+F 16 "12/14/2020" H 4700 6550 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 4800 6650 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 4900 6750 50  0001 C CNN "RoHS Levels"
+F 19 "ThroughHole Right Angle" H 5000 6850 50  0001 C CNN "Mounting"
+F 20 "4" H 5100 6950 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 5200 7050 50  0001 C CNN "Status"
+F 22 "*" H 5300 7150 50  0001 C CNN "Tolerance"
+F 23 "RCA Jack" H 5400 7250 50  0001 C CNN "Type"
+F 24 "24VDC" H 5500 7350 50  0001 C CNN "Voltage"
+F 25 "*" H 5600 7500 50  0001 C CNN "Package"
+F 26 "3.20mm ID, 9.00mm OD (RCA) Phono (RCA) Jack Mono Connector Solder" H 5900 7800 50  0001 C CNN "Description"
+F 27 "RCJ-2123" H 5800 7700 50  0001 C CNN "_Value_"
+F 28 "*" H 5900 7800 50  0001 C CNN "Management_ID"
+	1    3500 5200
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -931,107 +931,105 @@ F 28 "*" H 17700 8150 50  0001 C CNN "Management_ID"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4150 5500 2500 5500
+	5150 5500 3700 5500
 Wire Wire Line
-	2500 5650 2500 5700
+	3700 5650 3700 5700
 Wire Wire Line
-	3800 5650 2500 5650
-Wire Wire Line
-	4600 5500 4600 5550
+	4800 5650 3700 5650
 $Comp
 L kimchi_ulid-rescue:GND-power #PWR05
 U 1 1 5FE277FB
-P 3600 5900
-F 0 "#PWR05" H 3600 5650 50  0001 C CNN
-F 1 "GND" H 3605 5727 50  0000 C CNN
-F 2 "" H 3600 5900 50  0001 C CNN
-F 3 "" H 3600 5900 50  0001 C CNN
-	1    3600 5900
+P 4750 5900
+F 0 "#PWR05" H 4750 5650 50  0001 C CNN
+F 1 "GND" H 4755 5727 50  0000 C CNN
+F 2 "" H 4750 5900 50  0001 C CNN
+F 3 "" H 4750 5900 50  0001 C CNN
+	1    4750 5900
 	-1   0    0    -1  
 $EndComp
 $Comp
 L kimchi_ulid:FBMJ1608HM180NTR FB2
 U 1 1 5FE2BD65
-P 3050 5900
-F 0 "FB2" H 3050 6050 50  0000 C CNN
-F 1 "FBMJ1608HM180NTR" H 3100 6100 50  0001 C CNN
-F 2 "kimchi_ulid:R0603" H 3050 5900 50  0001 C CNN
-F 3 "https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf" H 3050 5900 50  0001 C CNN
-F 4 "0.11000" H 3150 6150 50  0001 C CNN "Cost QTY: 1"
-F 5 "0.03135" H 3250 6250 50  0001 C CNN "Cost QTY: 1000"
-F 6 "0.02660" H 3350 6350 50  0001 C CNN "Cost QTY: 2500"
-F 7 "0.02850" H 3450 6450 50  0001 C CNN "Cost QTY: 5000"
-F 8 "*" H 3550 6550 50  0001 C CNN "Cost QTY: 10000"
-F 9 "Taiyo Yuden" H 3650 6650 50  0001 C CNN "MFR"
-F 10 "FBMJ1608HM180NTR" H 3750 6750 50  0001 C CNN "MFR#"
-F 11 "Digikey" H 3850 6850 50  0001 C CNN "Vendor"
-F 12 "587-3251-1-ND" H 3950 6950 50  0001 C CNN "Vendor #"
-F 13 "AVR" H 4050 7050 50  0001 C CNN "Designer"
-F 14 "1mm" H 4150 7150 50  0001 C CNN "Height"
-F 15 "12/5/2019" H 5250 8250 50  0001 C CNN "Date Created"
-F 16 "12/5/2019" H 4250 7250 50  0001 C CNN "Date Modified"
-F 17 "Yes" H 4350 7350 50  0001 C CNN "Lead-Free ?"
-F 18 "1" H 4450 7450 50  0001 C CNN "RoHS Levels"
-F 19 "SMT" H 4550 7550 50  0001 C CNN "Mounting"
-F 20 "2" H 4650 7650 50  0001 C CNN "Pin Count #"
-F 21 "Active" H 4750 7750 50  0001 C CNN "Status"
-F 22 "*" H 4850 7850 50  0001 C CNN "Tolerance"
-F 23 "Ferrite Bead" H 4950 7950 50  0001 C CNN "Type"
-F 24 "*" H 5050 8050 50  0001 C CNN "Voltage"
-F 25 "0603" H 5150 8200 50  0001 C CNN "Package"
-F 26 "FBMJ1608HM180NTR" H 3050 5850 50  0000 C CNN "_Value_"
-F 27 "*" H 5450 8500 50  0001 C CNN "Management_ID"
-F 28 "18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm" H 3050 5900 50  0001 C CNN "Description"
-	1    3050 5900
+P 4250 5900
+F 0 "FB2" H 4250 6050 50  0000 C CNN
+F 1 "FBMJ1608HM180NTR" H 4300 6100 50  0001 C CNN
+F 2 "kimchi_ulid:R0603" H 4250 5900 50  0001 C CNN
+F 3 "https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf" H 4250 5900 50  0001 C CNN
+F 4 "0.11000" H 4350 6150 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.03135" H 4450 6250 50  0001 C CNN "Cost QTY: 1000"
+F 6 "0.02660" H 4550 6350 50  0001 C CNN "Cost QTY: 2500"
+F 7 "0.02850" H 4650 6450 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4750 6550 50  0001 C CNN "Cost QTY: 10000"
+F 9 "Taiyo Yuden" H 4850 6650 50  0001 C CNN "MFR"
+F 10 "FBMJ1608HM180NTR" H 4950 6750 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 5050 6850 50  0001 C CNN "Vendor"
+F 12 "587-3251-1-ND" H 5150 6950 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 5250 7050 50  0001 C CNN "Designer"
+F 14 "1mm" H 5350 7150 50  0001 C CNN "Height"
+F 15 "12/5/2019" H 6450 8250 50  0001 C CNN "Date Created"
+F 16 "12/5/2019" H 5450 7250 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 5550 7350 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 5650 7450 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 5750 7550 50  0001 C CNN "Mounting"
+F 20 "2" H 5850 7650 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 5950 7750 50  0001 C CNN "Status"
+F 22 "*" H 6050 7850 50  0001 C CNN "Tolerance"
+F 23 "Ferrite Bead" H 6150 7950 50  0001 C CNN "Type"
+F 24 "*" H 6250 8050 50  0001 C CNN "Voltage"
+F 25 "0603" H 6350 8200 50  0001 C CNN "Package"
+F 26 "FBMJ1608HM180NTR" H 4250 5850 50  0000 C CNN "_Value_"
+F 27 "*" H 6650 8500 50  0001 C CNN "Management_ID"
+F 28 "18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm" H 4250 5900 50  0001 C CNN "Description"
+	1    4250 5900
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 5900 2650 5900
+	3700 5900 3850 5900
 Wire Wire Line
-	3450 5900 3600 5900
+	4650 5900 4750 5900
 $Comp
 L kimchi_ulid:FBMJ1608HM180NTR FB1
 U 1 1 5FE3E899
-P 3050 5300
-F 0 "FB1" H 3050 5450 50  0000 C CNN
-F 1 "FBMJ1608HM180NTR" H 3100 5500 50  0001 C CNN
-F 2 "kimchi_ulid:R0603" H 3050 5300 50  0001 C CNN
-F 3 "https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf" H 3050 5300 50  0001 C CNN
-F 4 "0.11000" H 3150 5550 50  0001 C CNN "Cost QTY: 1"
-F 5 "0.03135" H 3250 5650 50  0001 C CNN "Cost QTY: 1000"
-F 6 "0.02660" H 3350 5750 50  0001 C CNN "Cost QTY: 2500"
-F 7 "0.02850" H 3450 5850 50  0001 C CNN "Cost QTY: 5000"
-F 8 "*" H 3550 5950 50  0001 C CNN "Cost QTY: 10000"
-F 9 "Taiyo Yuden" H 3650 6050 50  0001 C CNN "MFR"
-F 10 "FBMJ1608HM180NTR" H 3750 6150 50  0001 C CNN "MFR#"
-F 11 "Digikey" H 3850 6250 50  0001 C CNN "Vendor"
-F 12 "587-3251-1-ND" H 3950 6350 50  0001 C CNN "Vendor #"
-F 13 "AVR" H 4050 6450 50  0001 C CNN "Designer"
-F 14 "1mm" H 4150 6550 50  0001 C CNN "Height"
-F 15 "12/5/2019" H 5250 7650 50  0001 C CNN "Date Created"
-F 16 "12/5/2019" H 4250 6650 50  0001 C CNN "Date Modified"
-F 17 "Yes" H 4350 6750 50  0001 C CNN "Lead-Free ?"
-F 18 "1" H 4450 6850 50  0001 C CNN "RoHS Levels"
-F 19 "SMT" H 4550 6950 50  0001 C CNN "Mounting"
-F 20 "2" H 4650 7050 50  0001 C CNN "Pin Count #"
-F 21 "Active" H 4750 7150 50  0001 C CNN "Status"
-F 22 "*" H 4850 7250 50  0001 C CNN "Tolerance"
-F 23 "Ferrite Bead" H 4950 7350 50  0001 C CNN "Type"
-F 24 "*" H 5050 7450 50  0001 C CNN "Voltage"
-F 25 "0603" H 5150 7600 50  0001 C CNN "Package"
-F 26 "FBMJ1608HM180NTR" H 3050 5250 50  0000 C CNN "_Value_"
-F 27 "*" H 5450 7900 50  0001 C CNN "Management_ID"
-F 28 "18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm" H 3050 5300 50  0001 C CNN "Description"
-	1    3050 5300
+P 4250 5300
+F 0 "FB1" H 4250 5450 50  0000 C CNN
+F 1 "FBMJ1608HM180NTR" H 4300 5500 50  0001 C CNN
+F 2 "kimchi_ulid:R0603" H 4250 5300 50  0001 C CNN
+F 3 "https://www.yuden.co.jp/productdata/catalog/chipbeads01_e.pdf" H 4250 5300 50  0001 C CNN
+F 4 "0.11000" H 4350 5550 50  0001 C CNN "Cost QTY: 1"
+F 5 "0.03135" H 4450 5650 50  0001 C CNN "Cost QTY: 1000"
+F 6 "0.02660" H 4550 5750 50  0001 C CNN "Cost QTY: 2500"
+F 7 "0.02850" H 4650 5850 50  0001 C CNN "Cost QTY: 5000"
+F 8 "*" H 4750 5950 50  0001 C CNN "Cost QTY: 10000"
+F 9 "Taiyo Yuden" H 4850 6050 50  0001 C CNN "MFR"
+F 10 "FBMJ1608HM180NTR" H 4950 6150 50  0001 C CNN "MFR#"
+F 11 "Digikey" H 5050 6250 50  0001 C CNN "Vendor"
+F 12 "587-3251-1-ND" H 5150 6350 50  0001 C CNN "Vendor #"
+F 13 "AVR" H 5250 6450 50  0001 C CNN "Designer"
+F 14 "1mm" H 5350 6550 50  0001 C CNN "Height"
+F 15 "12/5/2019" H 6450 7650 50  0001 C CNN "Date Created"
+F 16 "12/5/2019" H 5450 6650 50  0001 C CNN "Date Modified"
+F 17 "Yes" H 5550 6750 50  0001 C CNN "Lead-Free ?"
+F 18 "1" H 5650 6850 50  0001 C CNN "RoHS Levels"
+F 19 "SMT" H 5750 6950 50  0001 C CNN "Mounting"
+F 20 "2" H 5850 7050 50  0001 C CNN "Pin Count #"
+F 21 "Active" H 5950 7150 50  0001 C CNN "Status"
+F 22 "*" H 6050 7250 50  0001 C CNN "Tolerance"
+F 23 "Ferrite Bead" H 6150 7350 50  0001 C CNN "Type"
+F 24 "*" H 6250 7450 50  0001 C CNN "Voltage"
+F 25 "0603" H 6350 7600 50  0001 C CNN "Package"
+F 26 "FBMJ1608HM180NTR" H 4250 5250 50  0000 C CNN "_Value_"
+F 27 "*" H 6650 7900 50  0001 C CNN "Management_ID"
+F 28 "18 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 7.5A 4mOhm" H 4250 5300 50  0001 C CNN "Description"
+	1    4250 5300
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 5300 2650 5300
+	3700 5300 3850 5300
 Wire Wire Line
-	3450 5300 3600 5300
+	4650 5300 4750 5300
 Wire Wire Line
-	3600 5300 3600 5900
-Connection ~ 3600 5900
+	4750 5300 4750 5900
+Connection ~ 4750 5900
 $Comp
 L kimchi_ulid:T491A105K010AT C17
 U 1 1 5FE6B069
@@ -1506,7 +1504,7 @@ Text Notes 15200 6800 0    50   ~ 10
 Headset (Phones/Mic)
 Text Notes 15150 5300 0    50   ~ 10
 Stereo Out (RCA)
-Text Notes 1800 5050 0    50   ~ 10
+Text Notes 3400 5100 0    50   ~ 10
 Stereo In (RCA)
 $Comp
 L kimchi_ulid:54-00176 J5
@@ -2111,26 +2109,26 @@ Text GLabel 2950 1450 2    50   Input ~ 0
 I2C4_SDA
 Text GLabel 2950 1550 2    50   Input ~ 0
 I2C4_SCL
-Text GLabel 4700 6550 0    50   Input ~ 0
+Text GLabel 950  6550 0    50   Input ~ 0
 SAI3_MCLK
-Text GLabel 4700 6750 0    50   Input ~ 0
+Text GLabel 950  6750 0    50   Input ~ 0
 SAI3_TXC
-Text GLabel 4700 6650 0    50   Input ~ 0
+Text GLabel 950  6650 0    50   Input ~ 0
 SAI3_TXFS
 Text GLabel 7550 6950 2    50   Input ~ 0
 SAI3_RXD
-Text GLabel 5200 7050 0    50   Input ~ 0
+Text GLabel 950  7050 0    50   Input ~ 0
 SAI3_TXD
 Wire Wire Line
-	6050 6750 4700 6750
+	6050 6750 1500 6750
 Wire Wire Line
-	5200 7250 6050 7250
+	950  7250 2200 7250
 Wire Wire Line
-	6050 7150 5200 7150
+	6050 7150 2000 7150
 Wire Wire Line
-	4700 6650 6050 6650
+	950  6650 1250 6650
 Wire Wire Line
-	6050 7050 5200 7050
+	6050 7050 1750 7050
 $Comp
 L kimchi_ulid:GG_LOGO L1
 U 1 1 6012EC1D
@@ -2190,7 +2188,7 @@ F 28 "*" H 8650 8650 50  0001 C CNN "Management_ID"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6050 6550 4700 6550
+	6050 6550 1000 6550
 Connection ~ 5300 7900
 Wire Wire Line
 	5300 7900 5550 7900
@@ -2278,18 +2276,15 @@ Wire Wire Line
 Wire Wire Line
 	14450 7050 15100 7050
 Wire Wire Line
-	4600 5500 5600 5500
-Wire Wire Line
 	5600 5500 5600 6150
 Wire Wire Line
 	5600 6150 6050 6150
-Connection ~ 4600 5500
 Wire Wire Line
 	6050 6250 5500 6250
 Wire Wire Line
 	5500 6250 5500 5650
 Wire Wire Line
-	5500 5650 4250 5650
+	5500 5650 5250 5650
 $Comp
 L kimchi_ulid:C0402C104K9PACTU C5
 U 1 1 60B957A1
@@ -2333,10 +2328,106 @@ Wire Wire Line
 Wire Wire Line
 	5000 7900 3850 7900
 Connection ~ 5000 7900
-Text GLabel 5200 7150 0    50   Input ~ 0
+Text GLabel 950  7150 0    50   Input ~ 0
 I2C3_SDA
-Text GLabel 5200 7250 0    50   Input ~ 0
+Text GLabel 950  7250 0    50   Input ~ 0
 I2C3_SCL
 Wire Wire Line
 	7450 6950 7550 6950
+$Comp
+L kimchi_ulid:TestPoint TP1
+U 1 1 60BA89C1
+P 1000 5950
+F 0 "TP1" H 1058 6022 50  0000 L CNN
+F 1 "TestPoint" H 1058 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 1200 5950 50  0001 C CNN
+F 3 "~" H 1200 5950 50  0001 C CNN
+	1    1000 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TestPoint TP2
+U 1 1 60C69AEE
+P 1250 5950
+F 0 "TP2" H 1308 6022 50  0000 L CNN
+F 1 "TestPoint" H 1308 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 1450 5950 50  0001 C CNN
+F 3 "~" H 1450 5950 50  0001 C CNN
+	1    1250 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TestPoint TP3
+U 1 1 60C69EEE
+P 1500 5950
+F 0 "TP3" H 1558 6022 50  0000 L CNN
+F 1 "TestPoint" H 1558 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 1700 5950 50  0001 C CNN
+F 3 "~" H 1700 5950 50  0001 C CNN
+	1    1500 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TestPoint TP4
+U 1 1 60C6A1C5
+P 1750 5950
+F 0 "TP4" H 1808 6022 50  0000 L CNN
+F 1 "TestPoint" H 1808 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 1950 5950 50  0001 C CNN
+F 3 "~" H 1950 5950 50  0001 C CNN
+	1    1750 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TestPoint TP5
+U 1 1 60C6A4E2
+P 2000 5950
+F 0 "TP5" H 2058 6022 50  0000 L CNN
+F 1 "TestPoint" H 2058 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 2200 5950 50  0001 C CNN
+F 3 "~" H 2200 5950 50  0001 C CNN
+	1    2000 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L kimchi_ulid:TestPoint TP6
+U 1 1 60C6A830
+P 2200 5950
+F 0 "TP6" H 2258 6022 50  0000 L CNN
+F 1 "TestPoint" H 2258 5977 50  0001 L CNN
+F 2 "kimchi_ulid:TestPoint_Pad_D1.0mm" H 2400 5950 50  0001 C CNN
+F 3 "~" H 2400 5950 50  0001 C CNN
+	1    2200 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 5950 1000 6550
+Connection ~ 1000 6550
+Wire Wire Line
+	1000 6550 950  6550
+Wire Wire Line
+	1250 5950 1250 6650
+Connection ~ 1250 6650
+Wire Wire Line
+	1250 6650 6050 6650
+Wire Wire Line
+	1500 5950 1500 6750
+Connection ~ 1500 6750
+Wire Wire Line
+	1500 6750 950  6750
+Wire Wire Line
+	1750 5950 1750 7050
+Connection ~ 1750 7050
+Wire Wire Line
+	1750 7050 950  7050
+Wire Wire Line
+	2000 5950 2000 7150
+Connection ~ 2000 7150
+Wire Wire Line
+	2000 7150 950  7150
+Wire Wire Line
+	2200 5950 2200 7250
+Connection ~ 2200 7250
+Wire Wire Line
+	2200 7250 6050 7250
 $EndSCHEMATC
