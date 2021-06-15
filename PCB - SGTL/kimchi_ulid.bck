@@ -12,6 +12,10 @@ $CMP 54-00177
 F https://tensility.s3-us-west-2.amazonaws.com/uploads/product_doc/document/4373/54-00177.pdf
 $ENDCMP
 #
+$CMP AC0402FR-071ML
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_7.pdf
+$ENDCMP
+#
 $CMP ASFL1-12.288MHZ-EC-T
 F https://abracon.com/Oscillators/ASFL1.pdf
 $ENDCMP
@@ -36,6 +40,12 @@ $ENDCMP
 #
 $CMP Keyes_HW-504
 F *
+$ENDCMP
+#
+$CMP MMSZ4688T3G
+D test point
+K test point tp
+F https://www.onsemi.com/pdf/datasheet/mmsz4678t1-d.pdf
 $ENDCMP
 #
 $CMP NVCC_1V8
@@ -102,6 +112,12 @@ $ENDCMP
 #
 $CMP TL3301NF260QG
 F http://spec_sheets.e-switch.com/specs/P010517.pdf
+$ENDCMP
+#
+$CMP TestPoint
+D test point
+K test point tp
+F ~
 $ENDCMP
 #
 $CMP UUQ1E221MCL1GS
